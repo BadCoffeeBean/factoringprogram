@@ -6,7 +6,9 @@ This is a simple program, written in C# that is used to find factors from an inp
 
 **Note**
 
-To run this program, you need first to install Microsoft(TM) .NET Framework which can be found here: http://www.microsoft.com/en-us/download/details.aspx?id=17718
+To run the program directly, you need first to install Microsoft(TM) .NET Framework which can be found <a href="http://www.microsoft.com/en-us/download/details.aspx?id=17718">here</a>.
+
+Sources and a solution file (can be opened with Visual Studio 2010/2012/2013 or <a href="http://www.visualstudio.com/en-US/products/visual-studio-express-vs"> Visual Studio Express</a>) is also available in this repository.
 
 **License**
 
