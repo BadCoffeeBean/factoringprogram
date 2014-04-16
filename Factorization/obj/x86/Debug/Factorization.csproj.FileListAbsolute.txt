@@ -1,0 +1,10 @@
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\bin\Debug\Factorization.exe
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\bin\Debug\Factorization.pdb
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\obj\x86\Debug\Factorization.Form1.resources
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\obj\x86\Debug\Factorization.Properties.Resources.resources
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\obj\x86\Debug\Factorization.csproj.GenerateResource.Cache
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\obj\x86\Debug\Factorization.exe
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\obj\x86\Debug\Factorization.pdb
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\bin\Debug\NumberProcessor.dll
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\bin\Debug\NumberProcessor.pdb
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\Factorization\obj\x86\Debug\Factorization.csprojResolveAssemblyReference.cache

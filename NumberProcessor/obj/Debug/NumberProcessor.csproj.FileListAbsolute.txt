@@ -1,0 +1,5 @@
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\NumberProcessor\bin\Debug\NumberProcessor.dll
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\NumberProcessor\bin\Debug\NumberProcessor.pdb
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\NumberProcessor\obj\Debug\NumberProcessor.dll
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\NumberProcessor\obj\Debug\NumberProcessor.pdb
+D:\FILES ON DRIVE C\Sample Works\C#\Factorization\NumberProcessor\obj\Debug\NumberProcessor.csprojResolveAssemblyReference.cache
