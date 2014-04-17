@@ -25,13 +25,14 @@ namespace FactorizationProgram
 
         private void btnSolve_Click(object sender, EventArgs e)
         {
-            if (Convert.ToInt32(txtInput.Text) < 0) //check if negative number
-                MessageBox.Show("Negative numbers are not allowed", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            else
+            try
             {
-                lstResults.Items.Clear(); //initialize the list box
-                try
+                if (Convert.ToInt32(txtInput.Text) < 0) //check if negative number
+                    MessageBox.Show("Negative numbers are not allowed", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                else
                 {
+                    lstResults.Items.Clear(); //initialize the list box
+
                     List<int> aList = new List<int>();
                     aList = fac.findFactors(Convert.ToInt32(txtInput.Text));
                     foreach (int element in aList)
@@ -47,6 +48,8 @@ namespace FactorizationProgram
                         txtPerfect.Text = "No";
                     aList.Clear(); // to avoid concatenation
                 }
+                    
+           }
 
                 catch (Exception ex)
                 {
@@ -55,9 +58,7 @@ namespace FactorizationProgram
                     if (ex is OverflowException) //beyond int range
                         MessageBox.Show("Out of range", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
-            }
-           
-        }
+      }
 
         private void btnReset_Click(object sender, EventArgs e)
         {
